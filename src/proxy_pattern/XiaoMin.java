@@ -1,4 +1,4 @@
-package proxypatterndemo;
+package proxy_pattern;
 
 /**
  * @author by wuYang
